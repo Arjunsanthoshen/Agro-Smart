@@ -1,7 +1,7 @@
 # 🌱 AgroSmart — Smart Agriculture Platform
 
 <p align="center">
-  **Smarter Farming. Healthier Crops. Better Decisions.**
+  <strong>Smarter Farming. Healthier Crops. Better Decisions.</strong>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 **Live Demo:** https://agrosmart-liard.vercel.app/
+  🌐 <strong>Live Demo:</strong> <a href="https://agrosmart-liard.vercel.app/">AgroSmart</a>
 </p>
 
 ---
